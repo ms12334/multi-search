@@ -1,1 +1,1 @@
-# multi-search
+Takes search strings from a file 'SearchStr.log' and produces a tab limited search result file 'Result.csv'.  Strings will be searched in txt files under 'C:\Projects'.  Files under sub-directories will be checked.
